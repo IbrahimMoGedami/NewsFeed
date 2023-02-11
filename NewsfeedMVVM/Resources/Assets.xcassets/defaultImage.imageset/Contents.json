@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "news-iOS9-glmrvn.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "news-iOS9-glmrvn-1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "news-iOS9-glmrvn-2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
